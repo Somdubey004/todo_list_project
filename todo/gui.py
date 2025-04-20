@@ -56,7 +56,7 @@ class ToDoApp:
         self.delete_button = tk.Button(root, text="Delete Task", command=self.delete_task)
         self.delete_button.grid(row=2, column=1, pady=10)
 
-        # Show initial tasks
+        # Show initial tasks this is new change
         self.update_tree()
 
     def get_icon(self, key):
