@@ -1,0 +1,87 @@
+[
+    {
+        "task_name": "Create To do List Project",
+        "completed": false,
+        "priority": "medium"
+    },
+    {
+        "task_name": "Implement Todo Application",
+        "priority": "high",
+        "completed": true
+    },
+    {
+        "task_name": "Implement Task 2",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 3",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 4",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 5",
+        "priority": "medium",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 6",
+        "priority": "low",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 7",
+        "priority": "low",
+        "completed": true
+    },
+    {
+        "task_name": "Implement Task 8",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 10",
+        "priority": "high",
+        "completed": true
+    },
+    {
+        "task_name": "Implement Task 11",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 12",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 13",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 14",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "Implement Task 15",
+        "priority": "medium",
+        "completed": false
+    },
+    {
+        "task_name": "New Task",
+        "priority": "medium",
+        "completed": false
+    },
+    {
+        "task_name": "New Taks 1",
+        "priority": "medium",
+        "completed": false
+    }
+]
