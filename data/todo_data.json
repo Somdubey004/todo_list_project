@@ -1,0 +1,37 @@
+[
+    {
+        "task_name": "Create To do List Project",
+        "completed": false,
+        "priority": "medium"
+    },
+    {
+        "task_name": "Implement Todo Application",
+        "priority": "high",
+        "completed": true
+    },
+    {
+        "task_name": "Implement Task 13",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "task_name": "New Task",
+        "priority": "medium",
+        "completed": false
+    },
+    {
+        "task_name": "Pack the bag for tomorrow travel",
+        "completed": false,
+        "priority": "medium"
+    },
+    {
+        "task_name": "again new task",
+        "completed": false,
+        "priority": "high"
+    },
+    {
+        "task_name": "Wake up by 5AM Tomorrow",
+        "completed": false,
+        "priority": "high"
+    }
+]
